@@ -13,8 +13,15 @@ Now, you have to start guessing a word (a noun, more precisely) chosen randomly 
 You begin by typing some 5-letter words from the Romanian lexis (including those containing ă, â, î, ș, ț).
 
 
-The game will show you which letters of the chosen word you have guessed and whether or not they are in the right order.
+The game will show you which letters of the chosen word you have correctly guessed and whether or not they are in the right place.
 
 ![Guess some words](images/GuessGame.jpg)
 
 
+You have a maximum of 6 guesses. 
+
+If by the end of them you will have guessed the word, the game will end.
+
+You won!
+
+![You have won](images/CongratsGame.jpg)
