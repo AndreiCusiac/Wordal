@@ -9,6 +9,6 @@ This is how the game looks like when you open it:
 ![New game](images/StartGame.jpg)
 
 You start to guess some 5-letter words from the Romainian vocabulary (including those containing ă, â, î, ș, ț):
-![Guess some words](images/GuessGame.png)
+![Guess some words](images/GuessGame.jpg)
 
 
