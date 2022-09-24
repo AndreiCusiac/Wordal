@@ -20,8 +20,23 @@ The game will show you which letters of the chosen word you have correctly guess
 
 You have a maximum of 6 guesses. 
 
-If by the end of them you will have guessed the word, the game will end.
+If by the end of them you will have guessed the right word, the game will end.
 
-You won!
+You win!
 
 ![You have won](images/CongratsGame.jpg)
+
+
+However, if you don't find the right word, the game will tell you which one it was.
+
+Better luck next time!
+
+![You have lost](images/FailGame.jpg)
+
+Example of a won game:
+
+![Won game](images/WinGame.jpg)
+
+Example of a lost game:
+
+![Fail game](images/EndGame.jpg)
