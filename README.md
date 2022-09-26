@@ -15,7 +15,7 @@ You begin by typing some 5-letter words from the Romanian lexis (including those
 
 The game will show you which letters of the chosen word you have correctly guessed and whether or not they are in the right place.
 
-Green means the letter is in the right place, yellow means the letter is somewhere else in the chosen word.
+Green means the letter is in the right place, yellow means the letter is somewhere else in the chosen word, while dark grey/ black means the word doesn't contain that letter.
 
 ![Guess some words](images/GuessGame.jpg)
 
